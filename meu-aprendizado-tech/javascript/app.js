@@ -1,0 +1,1 @@
+alert("Boas-vindas ao curso de Lógica de Programação!");
