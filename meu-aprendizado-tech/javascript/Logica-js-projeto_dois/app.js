@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
@@ -56,3 +57,14 @@ function reiniciarJogo() {
 
 
 
+=======
+let titulo = document.querySelector('h1');
+titulo.innerHTML = 'Jogo do número secreto';
+
+let paragrafo = document.querySelector('p');
+paragrafo.innerHTML = 'Escolha um número entre 1 e 10';
+
+function verificarChute() {
+  console.log('O botão foi clicado!');
+}
+>>>>>>> fa2ca4a26327540693ebaa37943616006b266509
